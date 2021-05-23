@@ -2,8 +2,7 @@
 A Repository to implement CICD Principals and thoery
 
 Below is me explaining the theory in my own words, Please make pull request if you feel like my information can be improved
-========================
-A best pracitce to deliver new code changes from developers
+CI/CD (Continous Integration/Continous Development)is a best pracitce to deliver new code changes from developers
 
 CI(continous Integration) allows devs to merge into Main Repo without conflicts
 
